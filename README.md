@@ -5,7 +5,7 @@ allow you to add additional Pac Man, beofre or after clicking the "Start" button
 
 ## How to run
 
-Make sure the images pacman1/pacman2/pacman3/pacman4 are in the same directory of the pacman.html file. Launch/open the pacman.html document in your browser and click on "Add PacMan" and "Start" buttons. By clicking again on the "Start" button, the velocity of the PacMen(s) will increase. Notice : if you create too much PacMens and increase velocity, it can slow down your computer. 
+Make sure the images PacMan1.png/PacMan2.png/PacMan3.png/PacMan4.png and the pacmen.js file are in the same directory of the PacMan_Exercise.html file. Launch/open the pacman.html document in your browser and click on "Add PacMan" and "Start" buttons. By clicking again on the "Start" button, the velocity of the PacMen(s) will increase. Notice : if you create too much PacMens and increase velocity, it can slow down your computer. 
 
 ## Roadmap of future improvements
 
